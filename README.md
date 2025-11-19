@@ -336,29 +336,6 @@ lib/
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome. Please follow these guidelines:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit changes with descriptive messages
-4. Push to your fork
-5. Submit a pull request with detailed description
-
-### Code Standards
-- Follow Dart style guide
-- Document public APIs
-- Include unit tests for new features
-- Maintain backwards compatibility
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) file for full terms.
-
-```
 
 
-</div>
+
