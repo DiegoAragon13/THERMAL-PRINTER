@@ -122,7 +122,7 @@ This application is compatible with any thermal printer meeting the following cr
 
 ---
 
-## 📱 Usage Guide
+## 📱 Usage
 
 ### Connection Workflow
 
