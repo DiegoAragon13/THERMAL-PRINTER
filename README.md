@@ -11,7 +11,7 @@
 
 A Flutter-based mobile application designed to optimize thermal printing through Bluetooth connectivity, featuring real-time image adjustment and paper-saving algorithms.
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Hardware](#-compatible-hardware) • [Documentation](#-documentation)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Hardware](#-Compatible Hardware) • [Documentation](#-documentation)
 
 
 
